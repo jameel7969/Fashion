@@ -1,0 +1,16 @@
+.jameel::after{
+    content: "";
+    width: 200px;
+    height: 100%;
+    background-image: url('./Images/hImage.png');
+    position: absolute;
+    top: 15px;
+    right: 0;
+    left: 95px;
+    background-repeat: no-repeat;
+    z-index: -1;
+}
+
+.transformPayDay{
+    transform: rotate(-3deg);
+}
